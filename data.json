@@ -3,9 +3,10 @@
         "name": "hot",
         "list_theme": [
             {
-                "image": "https://raw.githubusercontent.com/vandoannguyen/magic_video/master/image/theme1.png",
-                "theme_name": "theme4",
-                "link": "https://github.com/vandoannguyen/magic_video/blob/master/theme1.zip?raw=true"
+                "image": "",
+                "theme_name": "theme24",
+                "link": "https://github.com/vandoannguyen/magic_video/blob/master/theme29.zip?raw=true",
+                "video":
             }
         ]
     }
