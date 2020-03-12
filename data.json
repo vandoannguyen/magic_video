@@ -1,12 +1,196 @@
 [
     {
         "name": "hot",
-        "list_theme": [
+        "theme_videos": [
             {
                 "image": "",
-                "theme_name": "theme24",
-                "link": "https://github.com/vandoannguyen/magic_video/blob/master/theme29.zip?raw=true",
-                "video":
+                "theme_name": "theme27",
+                "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme27.zip?raw=true",
+                "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme27_video_ex.zip?raw=true"
+            },
+            {
+                "image": "",
+                "theme_name": "theme28",
+                "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme28.zip?raw=true",
+                "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme28_video_ex.zip?raw=true"
+            },
+            {
+                "image": "",
+                "theme_name": "theme31",
+                "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme31.zip?raw=true",
+                "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme31_video_ex.zip?raw=true"
+            },
+            {
+                "image": "",
+                "theme_name": "theme32",
+                "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme32.zip?raw=true",
+                "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme32_video_ex.zip?raw=true"
+            },
+            {
+                "image": "",
+                "theme_name": "theme33",
+                "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme33.zip?raw=true",
+                "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme33_video_ex.zip?raw=true"
+            },
+            {
+                "image": "",
+                "theme_name": "theme35",
+                "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme35.zip?raw=true",
+                "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme35_video_ex.zip?raw=true"
+            },
+            {
+                "image": "",
+                "theme_name": "theme36",
+                "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme36.zip?raw=true",
+                "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme36_video_ex.zip?raw=true"
+            },
+            {
+                "image": "",
+                "theme_name": "theme37",
+                "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme37.zip?raw=true",
+                "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme37_video_ex.zip?raw=true"
+            },
+            {
+                "image": "",
+                "theme_name": "theme38",
+                "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme38.zip?raw=true",
+                "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme38_video_ex.zip?raw=true"
+            },
+            {
+                "image": "",
+                "theme_name": "theme40",
+                "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme40.zip?raw=true",
+                "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme40_video_ex.zip?raw=true"
+            },
+            {
+                "image": "",
+                "theme_name": "theme41",
+                "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme41.zip?raw=true",
+                "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme41_video_ex.zip?raw=true"
+            },
+            {
+                "image": "",
+                "theme_name": "theme48",
+                "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme48.zip?raw=true",
+                "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme48_video_ex.zip?raw=true"
+            },
+            {
+                "image": "",
+                "theme_name": "theme49",
+                "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme49.zip?raw=true",
+                "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme49_video_ex.zip?raw=true"
+            },
+            {
+                "image": "",
+                "theme_name": "theme54",
+                "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme54.zip?raw=true",
+                "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme54_video_ex.zip?raw=true"
+            },
+            {
+                "image": "",
+                "theme_name": "theme55",
+                "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme57.zip?raw=true",
+                "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme57_video_ex.zip?raw=true"
+            }, {
+                "image": "",
+                "theme_name": "theme58",
+                "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme58.zip?raw=true",
+                "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme58_video_ex.zip?raw=true"
+            }, {
+                "image": "",
+                "theme_name": "theme59",
+                "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme59.zip?raw=true",
+                "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme59_video_ex.zip?raw=true"
+            }, {
+                "image": "",
+                "theme_name": "theme60",
+                "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme60.zip?raw=true",
+                "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme60_video_ex.zip?raw=true"
+            }, {
+                "image": "",
+                "theme_name": "theme61",
+                "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme61.zip?raw=true",
+                "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme61_video_ex.zip?raw=true"
+            }, {
+                "image": "",
+                "theme_name": "theme62",
+                "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme62.zip?raw=true",
+                "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme62_video_ex.zip?raw=true"
+            }, {
+                "image": "",
+                "theme_name": "theme63",
+                "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme63.zip?raw=true",
+                "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme63_video_ex.zip?raw=true"
+            }, {
+                "image": "",
+                "theme_name": "theme65",
+                "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme65.zip?raw=true",
+                "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme65_video_ex.zip?raw=true"
+            }, {
+                "image": "",
+                "theme_name": "theme66",
+                "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme66.zip?raw=true",
+                "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme66_video_ex.zip?raw=true"
+            }, {
+                "image": "",
+                "theme_name": "theme67",
+                "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme67.zip?raw=true",
+                "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme67_video_ex.zip?raw=true"
+            }, {
+                "image": "",
+                "theme_name": "theme68",
+                "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme68.zip?raw=true",
+                "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme68_video_ex.zip?raw=true"
+            }, {
+                "image": "",
+                "theme_name": "theme69",
+                "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme69.zip?raw=true",
+                "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme69_video_ex.zip?raw=true"
+            }, {
+                "image": "",
+                "theme_name": "theme70",
+                "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme70.zip?raw=true",
+                "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme70_video_ex.zip?raw=true"
+            }, {
+                "image": "",
+                "theme_name": "theme71",
+                "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme72.zip?raw=true",
+                "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme72_video_ex.zip?raw=true"
+            },{
+                "image": "",
+                "theme_name": "theme72",
+                "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme71.zip?raw=true",
+                "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme71_video_ex.zip?raw=true"
+            },{
+                "image": "",
+                "theme_name": "theme73",
+                "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme73.zip?raw=true",
+                "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme73_video_ex.zip?raw=true"
+            },{
+                "image": "",
+                "theme_name": "theme74",
+                "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme74.zip?raw=true",
+                "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme74_video_ex.zip?raw=true"
+            },{
+                "image": "",
+                "theme_name": "theme75",
+                "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme75.zip?raw=true",
+                "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme75_video_ex.zip?raw=true"
+            },{
+                "image": "",
+                "theme_name": "theme76",
+                "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme76.zip?raw=true",
+                "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme76_video_ex.zip?raw=true"
+            },{
+                "image": "",
+                "theme_name": "theme77",
+                "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme77.zip?raw=true",
+                "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme77_video_ex.zip?raw=true"
+            },{
+                "image": "",
+                "theme_name": "theme78",
+                "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme78.zip?raw=true",
+                "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme78_video_ex.zip?raw=true"
             }
         ]
     }
