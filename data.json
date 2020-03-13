@@ -5,7 +5,7 @@
             {
                 "image": "https://raw.githubusercontent.com/vandoannguyen/magic_video/master/source_file/image/them27.png",
                 "theme_name": "theme27",
-                "name":"",
+                "name":"Kamejoko Super",
                 "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme27.zip?raw=true",
                 "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme27_video_ex.zip?raw=true"
             },
@@ -19,24 +19,28 @@
             {
                 "image": "https://raw.githubusercontent.com/vandoannguyen/magic_video/master/source_file/image/them31.png",
                 "theme_name": "theme31",
+                "name":"Ice Power",
                 "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme31.zip?raw=true",
                 "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme31_video_ex.zip?raw=true"
             },
             {
                 "image": "https://raw.githubusercontent.com/vandoannguyen/magic_video/master/source_file/image/them32.png",
                 "theme_name": "theme32",
+                "name":"Thunder Light",
                 "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme32.zip?raw=true",
                 "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme32_video_ex.zip?raw=true"
             },
             {
                 "image": "https://raw.githubusercontent.com/vandoannguyen/magic_video/master/source_file/image/them33.png",
                 "theme_name": "theme33",
+                "name":"Magic 5",
                 "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme33.zip?raw=true",
                 "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme33_video_ex.zip?raw=true"
             },
             {
                 "image": "https://raw.githubusercontent.com/vandoannguyen/magic_video/master/source_file/image/them35.png",
                 "theme_name": "theme35",
+                "name": "Funny Dance",
                 "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme35.zip?raw=true",
                 "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme35_video_ex.zip?raw=true"
             },
@@ -56,7 +60,7 @@
             {
                 "image": "https://raw.githubusercontent.com/vandoannguyen/magic_video/master/source_file/image/them38.png",
                 "theme_name": "theme38",
-                
+                "name": "Magican",
                 "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme38.zip?raw=true",
                 "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme38_video_ex.zip?raw=true"
             },
@@ -217,6 +221,7 @@
 
                 "image": "https://raw.githubusercontent.com/vandoannguyen/magic_video/master/source_file/image/them72.png",
                 "theme_name": "theme72",
+                "name":"Doctor Strange",
                 "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme71.zip?raw=true",
                 "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme71_video_ex.zip?raw=true"
 
