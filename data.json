@@ -28,7 +28,7 @@
             },
             {
                 "image": "https://raw.githubusercontent.com/vandoannguyen/magic_video/master/source_file/image/them32.png",
-                "status":1,
+                "status":2,
                 "theme_name": "theme32",
                 "name":"Thunder Light",
                 "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme32.zip?raw=true",
@@ -60,8 +60,9 @@
             },
             {
                 "image": "https://raw.githubusercontent.com/vandoannguyen/magic_video/master/source_file/image/them37.png",
-                "status":2,
+                "status":1,
                 "theme_name": "theme37",
+                "name":"Saiyan Power",
                 "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme37.zip?raw=true",
                 "video": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme37_video_ex.zip?raw=true"
             },
@@ -75,7 +76,7 @@
             },
             {
                 "image": "https://raw.githubusercontent.com/vandoannguyen/magic_video/master/source_file/image/them40.png",
-                "status":2,
+                "status":1,
                 "theme_name": "theme40",
                 "name":"Supper Magic",
                 "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme40.zip?raw=true",
@@ -99,7 +100,7 @@
             },
             {
                 "image": "https://raw.githubusercontent.com/vandoannguyen/magic_video/master/source_file/image/them49.png",
-                "status":2,
+                "status":1,
                 "theme_name": "theme49",
                 "name":"Kamejoko",
                 "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme49.zip?raw=true",
