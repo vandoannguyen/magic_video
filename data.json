@@ -231,7 +231,7 @@
             }, {
 
                 "image": "https://raw.githubusercontent.com/vandoannguyen/magic_video/master/source_file/image/them70.png",
-                "status":1,
+                "status":2,
                 "theme_name": "theme70",
                 "name":"Control Ground",
                 "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme70.zip?raw=true",
@@ -249,7 +249,7 @@
             },{
 
                 "image": "https://raw.githubusercontent.com/vandoannguyen/magic_video/master/source_file/image/them72.png",
-                "status":"2",
+                "status":2,
                 "theme_name": "theme72",
                 "name":"Doctor Strange",
                 "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme71.zip?raw=true",
@@ -267,7 +267,7 @@
             },{
 
                 "image": "https://raw.githubusercontent.com/vandoannguyen/magic_video/master/source_file/image/them74.png",
-                "status":"1",
+                "status":1,
                 "theme_name": "theme74",
                 "name":"Soul Stream",
                 "link": "https://github.com/vandoannguyen/magic_video/blob/master/source_file/theme74.zip?raw=true",
